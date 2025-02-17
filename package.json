@@ -20,7 +20,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mcmcd13/COMP2156/issues"
+    "url": "https://github.com/mcmcd13/Comp2156/issues"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
